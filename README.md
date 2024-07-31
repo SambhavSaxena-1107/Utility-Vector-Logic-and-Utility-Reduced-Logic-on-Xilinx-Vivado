@@ -1,4 +1,4 @@
-# Utility-Vector-Logic-Utility-Reduced-Logic-on-Xilinx-Vivado
+# Utility-Vector-Logic-and-Utility-Reduced-Logic-on-Xilinx-Vivado
 Utility Vector Logic and Utility Reduced Logic are specialized IP cores available in Xilinx Vivado, designed to simplify and optimize logic operations in FPGA designs.
 
 # Utility Vector Logic:
